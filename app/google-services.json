@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "926304300565",
+    "firebase_url": "https://dbdemo-b1622.firebaseio.com",
+    "project_id": "dbdemo-b1622",
+    "storage_bucket": "dbdemo-b1622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926304300565:android:78cf92bdba89552d",
+        "android_client_info": {
+          "package_name": "com.ivara.aravi.feedbackdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926304300565-9rpejah9hsr86fjhn8erd8k55ag6bhco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivara.aravi.feedbackdemo",
+            "certificate_hash": "e5b1437a39fc743616e4027c71ac9525859c8581"
+          }
+        },
+        {
+          "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Yh1zur6Cf8E-PQajbv04KFOuS0brdHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926304300565:android:14571bc763b5bbef",
+        "android_client_info": {
+          "package_name": "com.periculam.aravi.fbrevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926304300565-pa6m1ble6cj9de5qpsb19n6374rm9ias.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.periculam.aravi.fbrevision",
+            "certificate_hash": "b2295307986e64349184870113c813dcf4d30fb3"
+          }
+        },
+        {
+          "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Yh1zur6Cf8E-PQajbv04KFOuS0brdHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926304300565:android:ff6238520b8e5063",
+        "android_client_info": {
+          "package_name": "com.periculam.aravi.tt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926304300565-fgk9pe56j7g0adrhng2olv6rddujtdjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.periculam.aravi.tt",
+            "certificate_hash": "b2295307986e64349184870113c813dcf4d30fb3"
+          }
+        },
+        {
+          "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Yh1zur6Cf8E-PQajbv04KFOuS0brdHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926304300565-90d5kjbptfjfk1m2cuoulu0m0jq3nk78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
